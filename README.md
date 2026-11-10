@@ -37,7 +37,7 @@ Documentação técnica
 
 # Consulte o documento:
 
-"Portfólio Técnico Completo do ORION" ORION_Portfolio_Tecnico_Completo.pdf
+"Portfólio Técnico Completo do ORION" (https://github.com/ceo320/orion-prototipo/blob/edb97e8c8ef71f7c80d65b14cab00db3150d185b/ORION_Portfolio_Tecnico_Completo.pdf)
 
 # Visão de longo prazo
 
