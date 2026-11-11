@@ -37,7 +37,7 @@ O ORION encontra-se em fase experimental de desenvolvimento. A estrutura física
 
 Consulte o documento:
 
-[Portfólio Técnico Completo do ORION](./ORION_Portfolio_Tecnico_Completo.pdf)
+[Portfólio Técnico Completo do ORION](./ORION_Portfólio_Técnico_Profissional.pdf)
 
 # Visão de longo prazo
 
